@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="PROCESSOR_6_BITS_FINAL" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ADDER_4 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|ADDER_4.sch</ClosedNode>
+         <ClosedNode>/AU_6_BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|AU_6_BITS.sch</ClosedNode>
+         <ClosedNode>/FA C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|FA.sch</ClosedNode>
+         <ClosedNode>/MUX_3_4 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|MUX_3_4.sch</ClosedNode>
+         <ClosedNode>/MUX_3_4 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|MUX_3_4.sch</ClosedNode>
+         <ClosedNode>/MUX_8WAY_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|MUX_8WAY_6BITS.sch</ClosedNode>
+         <ClosedNode>/MUX_8_WAY_4_BIT_2 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|MUX_8_WAY_4_BIT_2.sch</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_1 - REG_BANK_8_6</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_122 - INS_DEC_2</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_123 - ADDER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_133 - SYS_CLK</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_2 - MUX_8WAY_6BITS_2</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_22 - COUNTER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_7 - MUX_2_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_1 - REG_BANK_8_6</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_110 - SEVEN_SEG_6</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_122 - INS_DEC_2</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_122 - INS_DEC_2/XLXI_76 - MUX_2WAY_6BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_123 - ADDER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_125 - SEVEN_SEG_NEW/XLXI_2 - MUX_8WAY_6BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_125 - SEVEN_SEG_NEW/XLXI_37 - FD_DELAY</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_125 - SEVEN_SEG_NEW/XLXI_40 - MUX_8WAY4_BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_125 - SEVEN_SEG_NEW/XLXI_41 - CONVERTER</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_125 - SEVEN_SEG_NEW/XLXI_43 - MUX_2_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_125 - SEVEN_SEG_NEW/XLXI_44 - MUX_2_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_127 - SEVEN_SEG_6</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL/XLXI_2 - MUX_8WAY_6BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL/XLXI_37 - FD_DELAY</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL/XLXI_40 - MUX_8WAY4_BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL/XLXI_41 - MUX_2_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL/XLXI_42 - MUX_2_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_131 - SEVEN_SEG_FINAL/XLXI_45 - CNVERT_3</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_2 - MUX_8WAY_6BITS_2</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_2 - MUX_8WAY_6BITS_2/XLXI_1 - MUX_8WAY_6BIT/XLXI_1 - MUX_8WAY_3BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_2 - MUX_8WAY_6BITS_2/XLXI_1 - MUX_8WAY_6BIT/XLXI_2 - MUX_8WAY_3BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_2 - MUX_8WAY_6BITS_2/XLXI_2 - MUX_8WAY_6BIT</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_22 - COUNTER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS/XLXI_2 - FA</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS/XLXI_3 - FA</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS/XLXI_4 - FA</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS/XLXI_5 - FA</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS/XLXI_6 - FA</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_4 - ADDER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_7 - MUX_2_4</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_6 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_6.sch</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_6 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_6.sch</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_NEW C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_NEW.sch</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_NEW C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_NEW.sch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >142</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000183000000020000000000000000000000000200000064ffffffff000000810000000300000002000001830000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>XLXI_138 - SYSTEM_CLK (C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/final/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/SYSTEM_CLK.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001b10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ADDER_4.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000c9000000010001000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/AU_6BITS_AU_6BITS_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|TB_2.vhd</ClosedNode>
+         <ClosedNode>/AU_6BITS_AU_6BITS_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|TB_2.vhd</ClosedNode>
+         <ClosedNode>/CNVERT_3_CNVERT_3_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|TB_CNVERT_3.vhd</ClosedNode>
+         <ClosedNode>/CNVERT_3_CNVERT_3_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|TB_CNVERT_3.vhd</ClosedNode>
+         <ClosedNode>/MUX_3_4 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|MUX_3_4.sch</ClosedNode>
+         <ClosedNode>/MUX_3_4 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|MUX_3_4.sch</ClosedNode>
+         <ClosedNode>/MUX_8WAY_6BIT_MUX_8WAY_6BIT_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|TB_1.vhd</ClosedNode>
+         <ClosedNode>/MUX_8WAY_6BIT_MUX_8WAY_6BIT_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|TB_1.vhd</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_1 - REG_BANK_8_6</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_122 - INS_DEC_2</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_123 - ADDER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_127 - SEVEN_SEG_6</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_2 - MUX_8WAY_6BITS_2</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_22 - COUNTER_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_3 - AU_6BITS</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|PROCESSOR_6BITS.sch/XLXI_7 - MUX_2_4</ClosedNode>
+         <ClosedNode>/PROCESSOR_6BITS_PROCESSOR_6BITS_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|TB_PROCESSER.vhd/UUT - PROCESSOR_6BITS</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_6 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_6.sch</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_6 C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_6.sch</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_NEW C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_NEW.sch</ClosedNode>
+         <ClosedNode>/SEVEN_SEG_NEW C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL|SEVEN_SEG_NEW.sch</ClosedNode>
+         <ClosedNode>/reg_test_reg_test_sch_tb - behavioral C:|Users|Nilanka Manoj|Documents|FINAL LAB RESOUSES|New folder (3)|PROCESSOR_6_BITS_FINAL2|PROCESSOR_6_BITS_FINAL|tb_123.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>MUX_3_4 (C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/MUX_3_4.sch)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001a3000000020000000000000000000000000200000064ffffffff000000810000000300000002000001a30000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>MUX_3_4 (C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/MUX_3_4.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Create Schematic Symbol</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Create Schematic Symbol</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

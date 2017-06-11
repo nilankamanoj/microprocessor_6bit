@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL/convert_1.v} -lang verilog -prj PROCESSOR_6_BITS_FINAL -o convert_1.spl -module convert_1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e convert_1.spl {C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL/convert_1.sym} 
+vhdtdtfi -lib work {C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL/convert_1.v} -lang verilog -prj PROCESSOR_6_BITS_FINAL -o convert_1.spl -module convert_1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e convert_1.spl {C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL/convert_1.sym} 

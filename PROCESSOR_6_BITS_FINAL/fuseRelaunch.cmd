@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/reg_test_reg_test_sch_tb_isim_beh.exe" -prj "C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/reg_test_reg_test_sch_tb_beh.prj" "work.reg_test_reg_test_sch_tb" 

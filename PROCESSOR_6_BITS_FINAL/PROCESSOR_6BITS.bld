@@ -1,0 +1,37 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -uc CCT_FINAL.ucf -p xc3s100e-cp132-4
+PROCESSOR_6BITS.ngc PROCESSOR_6BITS.ngd
+
+Reading NGO file "C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder
+(3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "CCT_FINAL.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 194008 kilobytes
+
+Writing NGD file "PROCESSOR_6BITS.ngd" ...
+Total REAL time to NGDBUILD completion:  4 sec
+Total CPU time to NGDBUILD completion:   4 sec
+
+Writing NGDBUILD log file "PROCESSOR_6BITS.bld"...

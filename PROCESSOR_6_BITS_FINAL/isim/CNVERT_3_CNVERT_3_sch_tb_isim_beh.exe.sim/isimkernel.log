@@ -1,0 +1,28 @@
+Command line:
+   CNVERT_3_CNVERT_3_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64497
+
+Fri Dec 09 22:46:33 2016
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 850.018 Meg
+
+ Total Signals          : 257
+ Total Nets             : 188
+ Total Signal Drivers   : 86
+ Total Blocks           : 78
+ Total Primitive Blocks : 69
+ Total Processes        : 93
+ Total Traceable Variables  : 39
+ Total Scalar Nets and Variables : 780
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 1164.59 Meg
+
+Fri Dec 09 22:47:29 2016
+

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">4666</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">ADD_FLAG</arg>&apos; of component &apos;<arg fmt="%s" index="4">INS_DEC_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">3604</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Y7</arg>&apos; of component &apos;<arg fmt="%s" index="4">DECODER_3TO8_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">2718</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1314</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1314</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1321</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1321</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1328</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1328</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1335</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1335</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1342</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1342</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1349</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1349</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1628</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">OUT_B3</arg>&apos; of component &apos;<arg fmt="%s" index="4">cnvert_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1638</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">OUT_B3</arg>&apos; of component &apos;<arg fmt="%s" index="4">cnvert_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1440</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1440</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">EXE_3</arg>&apos; of component &apos;<arg fmt="%s" index="4">SEQUENCE_2_MUSER_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1236</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CEO</arg>&apos; of component &apos;<arg fmt="%s" index="4">CB16CE_MXILINX_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1236</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">TC</arg>&apos; of component &apos;<arg fmt="%s" index="4">CB16CE_MXILINX_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1244</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CEO</arg>&apos; of component &apos;<arg fmt="%s" index="4">CB8CE_MXILINX_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL2/PROCESSOR_6_BITS_FINAL/PROCESSOR_6BITS.vhf</arg>&quot; line <arg fmt="%d" index="2">1244</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">TC</arg>&apos; of component &apos;<arg fmt="%s" index="4">CB8CE_MXILINX_PROCESSOR_6BITS</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">dummy</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">dummy</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">dummy</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">XLXI_16_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_40_R7_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_40_R6_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_40_R5_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_40_R3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_40_R0_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">XLXI_39_CLR_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">A</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">B</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">C</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">D</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">E</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">F</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">G</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">ROM16X1</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="old" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_2/XLXI_30/XLXI_37/S0</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="old" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_2/XLXI_30/XLXI_37/S1</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="old" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_2/XLXI_30/XLXI_37/O_DUMMY</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="old" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_2/XLXI_2/XLXI_30/XLXI_37/S0</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="old" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_2/XLXI_2/XLXI_30/XLXI_37/S1</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="old" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_2/XLXI_2/XLXI_30/XLXI_37/O_DUMMY</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

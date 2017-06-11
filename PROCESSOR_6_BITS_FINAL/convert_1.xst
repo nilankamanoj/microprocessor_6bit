@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Nilanka Manoj/Documents/FINAL LAB RESOUSES/New folder (3)/PROCESSOR_6_BITS_FINAL/xst"
+elaborate
+-ifn convert_1.prj
+-ifmt mixed
